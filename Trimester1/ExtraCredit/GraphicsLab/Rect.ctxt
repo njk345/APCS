@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h
+comment0.target=Rect(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getWidth()
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=int[]\ topLeft()
+comment4.params=
+comment4.target=int[]\ topRight()
+comment5.params=
+comment5.target=int[]\ bottomLeft()
+comment6.params=
+comment6.target=int[]\ bottomRight()
+comment7.params=p\ pSide
+comment7.target=int[]\ targetPoint(int[],\ int)
+comment8.params=factor
+comment8.target=Rect\ scaled(double)
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=LipogramAnalyzer(java.lang.String)
+comment1.params=letter
+comment1.target=java.lang.String\ mark(char)
+comment2.params=letter
+comment2.target=java.lang.String\ allWordsWith(char)
+comment3.params=s
+comment3.target=java.lang.String\ cleanse(java.lang.String)
+comment4.params=s\ s2
+comment4.target=boolean\ containsStr(java.lang.String,\ java.lang.String)
+numComments=5

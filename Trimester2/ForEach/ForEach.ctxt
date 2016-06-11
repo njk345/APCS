@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=arr
+comment1.target=int\ arraySum(int[])
+comment2.params=arrs
+comment2.target=int[]\ arraySums(int[][])
+comment3.params=a
+comment3.target=int\ largestEl(int[])
+comment4.params=a
+comment4.target=java.util.ArrayList\ mostCommons(int[])
+numComments=5

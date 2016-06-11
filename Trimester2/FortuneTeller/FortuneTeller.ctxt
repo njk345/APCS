@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FortuneTeller()
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=toFill
+comment3.target=void\ uploadTermsFromFile(java.util.ArrayList)
+comment4.params=s
+comment4.target=java.lang.String\ decipher(java.lang.String)
+numComments=5

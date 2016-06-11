@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paint(java.awt.Graphics)
+comment1.params=g\ r\ sides\ increment
+comment1.target=void\ drawArcsFromSides(java.awt.Graphics,\ Rect,\ int[],\ int)
+comment2.params=g\ p1\ p2
+comment2.target=void\ drawLineTo(java.awt.Graphics,\ int[],\ int[])
+comment3.params=g\ r\ fromSide\ increment
+comment3.target=void\ drawArcInRect(java.awt.Graphics,\ Rect,\ int,\ int)
+numComments=4

@@ -1,0 +1,1 @@
+This version doesn't use any arrays or collection data types.
